@@ -15,7 +15,7 @@ problemGenerator.java: The only justifiable change that was made to this file wa
 
 readme.txt: The file currently open. Explains and details the files provided for this submission.
 
-coversheet.pdf: The file showing my signed and filled-out assessment item cover sheet for this assignment. 
+coversheet.pdf: The file showing my signed and filled-out assessment item cover sheet for this assignment. (A part of original assignment submission. Not present in GitHub)
 
 ---------------------------------------------------------------------------------------------
 
@@ -37,4 +37,5 @@ More major justifications for choices in my program code and what segments have 
 In-line comments are also present throughout my program implementations to provide further breakdown and explanation behind every operation within the program.
 
 - Alex Henley
+
 - 3435482
